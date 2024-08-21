@@ -1,0 +1,42 @@
+.count{
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  
+  font-size: 100px;
+  font-weight: 1000;
+}
+.incre{
+    margin-top: 20px;
+    color: white;
+    background-color: green;
+    
+    margin-right: 20px;
+    border-radius: 10%;
+    align-items: center;
+    justify-content: center;
+    font-size:xx-large;
+    font-weight: 500;
+}
+.reset{
+    margin-top: 20px;
+    color: white;
+    background-color: blue;
+    margin-right: 20px;
+    border-radius: 10%;
+    align-items: center;
+    justify-content: center;
+    font-size:xx-large;
+    font-weight: 500;
+}
+.decre{
+    margin-top: 20px;
+    color: white;
+    background-color:Red;
+    margin-right: 20px;
+    border-radius: 10%;
+    align-items: center;
+    justify-content: center;
+    font-size:xx-large;
+    font-weight: 500;
+}
