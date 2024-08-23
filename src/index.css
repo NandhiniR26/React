@@ -1,1 +1,42 @@
 
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: "New Amsterdam", sans-serif;
+}
+/* .card-container {
+
+}
+.pro{
+
+} */
+#root{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+    flex-wrap: wrap;
+    min-height: 100vh;
+    margin:0;
+}
+h3{
+    margin: 10px 0;
+}
+h6{
+    margin: 5px 0;
+    text-transform: uppercase;
+}
+p{
+    
+}
+
+
+
+
+
+
+
+

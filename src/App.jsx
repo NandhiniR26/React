@@ -1,10 +1,12 @@
 import React from 'react'
-import Card from './components/Card'
+import UserCard from './components/UserCard'
+import './index.css'
 
 const App = () => {
   return (
     <div>
-      <Card/>
+      <UserCard/>
+
     </div>
   )
 }
